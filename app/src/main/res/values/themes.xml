@@ -1,4 +1,4 @@
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources xmlns:tools="http://schemas.android.com/tools">ou dpi, pontos por polegada) estão na tela. Em um dispositivo de densidade média (mdpi), a tela tem 160 pontos por polegada
     <!-- Base application theme. -->
     <style name="Base.Theme.TipTime" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
