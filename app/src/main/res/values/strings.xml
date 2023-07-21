@@ -1,11 +1,11 @@
 <resources>
-    <string name="app_name">Tip Time</string>
-    <string name="round_up_tip">Arredondar a gorjeta?</string>
-    <string name="cost_of_service">Quanto custou o serviço?</string>
-    <string name="how_was_the_service">Como foi o serviço?</string>
-    <string name="amazing_service">Ótimo (20%)</string>
-    <string name="good_service">Bom (10%)</string>
-    <string name="ok_service">Ruim (0%)</string>
-    <string name="calculate">Calcular</string>
-    <string name="tip_amount">Valor da gorjeta: %s</string>
+  <string name="app_name">Tip Time</string>
+  <string name="round_up_tip">Arredondar a gorjeta?</string>
+  <string name="cost_of_service">Custo do serviço</string>
+  <string name="how_was_the_service">Como foi o serviço?</string>
+  <string name="amazing_service">Ótimo (20%)</string>
+  <string name="good_service">Bom (10%)</string>
+  <string name="ok_service">Ruim (0%)</string>
+  <string name="calculate">Calcular</string>
+  <string name="tip_amount">Valor da gorjeta: %s</string>
 </resources>
